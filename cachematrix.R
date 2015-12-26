@@ -1,7 +1,7 @@
 ## This program contains a pair of functions that cache the inverse of a matrix. 
 ## makeCacheMatrix is the function that creates a special "matrix" object and caches its inverse.
-## cacheSolve computes that inverse of the special "matrix" returned by makeCacheMatrix. If the inverse
-## has already been calculated, then the cachesolve should retrieve the inverse from the cache.
+## cacheSolve computes the inverse of the special "matrix" returned by makeCacheMatrix. If the inverse
+## has already been calculated, then the cacheSolve should retrieve the inverse from the cache.
 
 
 ## makeCacheMatrix creates a special "matrix" object, which contains a list of functions:
